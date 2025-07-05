@@ -59,7 +59,7 @@ The dataset contains 100 posts with the following features:
 
 ## How to Run
 1. Clone the repository
-2. Open `social_media_engagement_project_full.ipynb` in Jupyter Notebook
+2. Open `SM_Engagement.ipynb` in Jupyter Notebook
 3. Run all cells
 
 ---
